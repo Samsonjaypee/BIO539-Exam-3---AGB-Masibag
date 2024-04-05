@@ -5,3 +5,5 @@ Person 1: Jaypee Samson
 Person 2: Arvie Grace Masibag
 
 try git add, git commit 1
+
+second try. modify 
